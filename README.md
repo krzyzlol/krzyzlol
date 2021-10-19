@@ -32,4 +32,4 @@
 ```
 ![](https://dcbadge.vercel.app/api/shield/455025818695893003)
 
-![krzyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=zJackk&theme=prussian&show_icons=true)
+![krzyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=krzyzlol&theme=prussian&show_icons=true)
